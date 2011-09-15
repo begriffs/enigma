@@ -1,0 +1,6 @@
+Enigma came from a discussion I had with friends about the worst
+possible web design.  We decided nothing could be worse than a page
+which looks entirely different every time it loads. That's what
+Enigma does; it is a snippet of JavaScript which adds dynamic and
+unpredictable CSS effects to a webpage. You can control the likelihood
+of certain effects from within the source.
